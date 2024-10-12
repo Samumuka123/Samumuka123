@@ -40,4 +40,8 @@
 <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <img align="center" alt="SQlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+![S A M U C A (1) ORIGINAL](https://github.com/user-attachments/assets/758f26c9-d51b-45da-9e85-c5775e18fd9c)
+
 </div>
+
