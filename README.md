@@ -41,7 +41,7 @@
 
 <img align="center" alt="SQlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-![S A M U C A (1) ORIGINAL](https://github.com/user-attachments/assets/758f26c9-d51b-45da-9e85-c5775e18fd9c)
+![S A M U C A (1) ORIGINAL (1)](https://github.com/user-attachments/assets/10762f2e-f552-420c-97f3-7d7b3627c3ec)
 
 </div>
 
